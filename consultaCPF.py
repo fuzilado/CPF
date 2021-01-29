@@ -91,5 +91,6 @@ def consulta(cpf):
 		print(f'{R}CPF Gerado nao existe{C}')
 		tipos()
 		
+		
 if __name__=='__main__':
 	tipos()
