@@ -25,14 +25,8 @@ sleep(3)
 
 system('clear')
 
-print(f'''{G}*By PoisonBR
-{B} ██████╗██████╗ ███████╗{C}████████╗ ██████╗  ██████╗ ██╗     ███████╗
-{B}██╔════╝██╔══██╗██╔════╝{C}╚══██╔══╝██╔═══██╗██╔═══██╗██║     ██╔════╝
-{B}██║     ██████╔╝█████╗  {C}   ██║   ██║   ██║██║   ██║██║     ███████╗
-{B}██║     ██╔═══╝ ██╔══╝  {C}   ██║   ██║   ██║██║   ██║██║     ╚════██║
-{B}╚██████╗██║     ██║     {C}   ██║   ╚██████╔╝╚██████╔╝███████╗███████║
-{B} ╚═════╝╚═╝     ╚═╝     {C}   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ {G}v1.1
-Consulta de CPF gratis! {B}THX @Sr_M0h4mm3d_4li''')
+print(f'''{G}*By DaieLexX {G}
+Consultar CPF {B}INSTA @hugocloficial''')
 
 def tipos():
 	print(f'''
@@ -85,12 +79,11 @@ def consulta(cpf):
 		if nova == 's' or nova == 'sim':
 			tipos()
 		else:
-			print(f'\n{C}Me acompanhe no Github: {G}https://github.com/p0isonBR{C}')
+			print(f'\n{C}Grupo no telegram: {G}LINK{C}')
 			exit()
 	except(AttributeError):
 		print(f'{R}CPF Gerado nao existe{C}')
 		tipos()
-		
 		
 if __name__=='__main__':
 	tipos()
