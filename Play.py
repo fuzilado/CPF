@@ -12,13 +12,6 @@ C = '\033[1;37m'
 Y = '\033[1;33m'
 G = '\033[1;32m'
 RT = '\033[;0m'
-vd='\033[32m'
-am='\033[33m'
-vm='\033[31m'
-az='\033[36m'
-ng='\033[1m'
-f='\033[m'
-lz='\033[34m'
 
 system('clear')
 
@@ -32,12 +25,12 @@ sleep(3)
 
 system('clear')
 
-print(f'''
-{az}    	
+print(f'''{az}    	
   /﹋\_
- (҂`_´){f} - {vd}By: ∆ristoteles{f}
+ (҂`_´){f} - {vd}By: DaieLexX{f}
  {az}<;︻╦╤─ ҉ - - - - - - - - - - - - -{f}	                            
-{vm}--=== >>{f} [  {vd} CONSULTA-V3 {f} ]  
+{vm}--=== >>{f} [  {vd} CONSULTA-V3 {f} ]
+  ''')
 
 def tipos():
 	print(f'''
