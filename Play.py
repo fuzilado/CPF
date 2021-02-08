@@ -32,7 +32,8 @@ sleep(3)
 
 system('clear')
 
-print(f'''{az}    	
+print(f'''
+{az}    	
   /﹋\_
  (҂`_´){f} - {vd}By: ∆ristoteles{f}
  {az}<;︻╦╤─ ҉ - - - - - - - - - - - - -{f}	                            
