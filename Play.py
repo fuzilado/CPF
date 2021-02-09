@@ -34,7 +34,7 @@ system('clear')
 
 print(f'''{az}    	
   /﹋\_
- (҂`_´){f} - {vd}By: DaieLexX{f}
+ (҂`_´){f} - {vd}By: Hugo Oliveira{f}
  {az}<;︻╦╤─ ҉ - - - - - - - - - - - - -{f}	                            
 {vm}--=== >>{f} [  {vd} CONSULTA-V3 {f} ]
   ''')
